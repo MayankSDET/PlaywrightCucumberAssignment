@@ -12,17 +12,4 @@ Installation steps
 TO RUN Tests:- npm run test:e2e 
 TO generate Report:- npm run report
 
-GitHUB
-Public Repos :-  https://github.com/sumeet6181/PlaywrightCucumberAssignment.git
-GitHUB action will execute suite on every PUSH, and publish a report
-
-
-Framework:- 
-Page Folder:-  is containing page objects and pageObject file
-Report Folder: is containing a generated reports
-step-definition folder:- is containing Hooks and step definitions 
-Tests/feature folder:- is containing all feature files
-Cucumber.json file:- is for glue
-html-reporter file:- is for html report design
-
-
+Manual Test Case will be there in Test Case Folder in the Project Structure
