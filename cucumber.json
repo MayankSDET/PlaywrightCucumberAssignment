@@ -1,0 +1,17 @@
+{
+"default":{
+    "formatOptions":{
+        "snipptInterface":"async-await"
+    },
+    "paths":["tests/features/"],
+    "publishQuiet":true,
+    "dryRun": false,
+    "require": ["step-definitions/**/*.js"],
+    "format": [
+        "json:Reports/cucumber_report.json"
+      ],
+      "worldParameters":{"Url":"https://practicetestautomation.com/practice-test-login/",
+    "headLesBrowser": true},
+      "parallel": 1
+}
+}
