@@ -11,7 +11,9 @@ Installation steps
 TO RUN Tests:- npm run test:e2e 
 TO generate Report:- npm run report
 
-
+GitHUB
+Public Repos :-  https://github.com/sumeet6181/PlaywrightCucumberAssignment.git
+GitHUB action will execute suite on every PUSH, and publish a report
 
 
 Framework:- 
