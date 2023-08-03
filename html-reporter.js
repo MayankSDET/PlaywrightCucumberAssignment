@@ -16,7 +16,7 @@ var options={
         "App Version":"1.1.1",
         "Test Environment":"QA",
         "Platform":"Web",
-        "Tester": "Sumeet Pal"
+        "Tester": "Mayank"
     }
 };
 reporter.generate(options);

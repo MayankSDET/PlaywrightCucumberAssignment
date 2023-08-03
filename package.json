@@ -1,7 +1,7 @@
 {
   "name": "playwright",
   "version": "1.0.0",
-  "description": "Installation steps\r 1.  Install latest nodeJS \r     https://nodejs.org/en/download/\r 2.  Install Visual studio code\r     https://code.visualstudio.com/Download\r 3.  Open VS code \r 4.  Clone repo from  https://github.com/sumeet6181/PlaywrightCucumberAssignment.git\r 4.  Open terminal and Run command \"npm install\"\r 5.  Then execute command \"npx playwright install\"",
+  "description": "Installation steps\r 1.  Install latest nodeJS \r     https://nodejs.org/en/download/\r 2.  Install Visual studio code\r     https://code.visualstudio.com/Download\r 3.  Open VS code \r 4.  Open terminal and Run command \"npm install\"\r 5.  Then execute command \"npx playwright install\"",
   "main": "index.js",
   "scripts": {
     "test:e2e": "cucumber-js",
